@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm [Tahiya Tabassum]  
+# Hello World! 👋 I'm Tahiya Tabassum  
 
 🔬 Genetic Engineering & Biotechnology Student** @ [University of Chittagong](https://www.cu.ac.bd/)  
 🧪 Passionate about **Genomics, Bioinformatics & Computational Biology**  
