@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm Tahiya Tabassum  
 
-🔬 Genetic Engineering & Biotechnology Student** @ [University of Chittagong](https://www.cu.ac.bd/)  
+🔬 Genetic Engineering & Biotechnology Student @ [University of Chittagong](https://www.cu.ac.bd/)  
 🧪 Passionate about **Genomics, Bioinformatics & Computational Biology**  
 📊 Currently learning **R for Data Analysis & Biostatistics**  
 📫 Reach me: [tahiatabassumsamiha@gmail.com]  
